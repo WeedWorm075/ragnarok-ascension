@@ -8,4 +8,4 @@ createRoot(document.getElementById('root')!).render(
     <App />
   </StrictMode>,
 )
-src/main.tsx
+// src/main.tsx
